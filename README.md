@@ -76,9 +76,9 @@ analytics = {
 ---
 
 ## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-daniel-apollo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlesdanieldoka@gmail.com)
+[
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-daniel-apollo)](https://www.linkedin.com/in/charles-daniel-apollo-1551b2b3/)
+https://www.youtube.com/@MasterDataWithCharles
 
 ---
 
